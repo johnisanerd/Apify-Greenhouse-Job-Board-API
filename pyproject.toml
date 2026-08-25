@@ -1,0 +1,9 @@
+[project]
+name = "apify-greenhouse-job-board-api-example"
+version = "1.0.0"
+description = "Python quick-start for the Greenhouse Job Board API on Apify"
+requires-python = ">=3.11"
+dependencies = [
+    "apify-client>=3,<4",
+    "python-dotenv>=1.0,<2",
+]
